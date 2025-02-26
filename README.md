@@ -6,13 +6,13 @@ loan-management-system/
 │   ├── repository/        # Data Access Layer (DAO)
 │   ├── model/             # Entity Classes (Models)
 │   ├── exception/         # Custom Exceptions
-│   ├── config/            # Configuration files (if needed)
+│   ├── config/            # Configuration files
 │   ├── LoanManagementSystemApplication.java  # Main Spring Boot App
 │
 │── src/main/resources/
 │   ├── application.properties  # Spring Boot Configurations
 │   ├── static/                 # Static files (HTML, CSS, JS if applicable)
-│   ├── templates/              # Thymeleaf templates (if using)
+│   ├── templates/              # Thymeleaf templates
 │
 │── src/test/java/com/brenda/loan_management_system/ # Unit Tests
 │
